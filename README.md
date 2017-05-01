@@ -8,6 +8,20 @@
 
 * `ember install ember-common-tags`
 
+## Usage
+
+```js
+import { stripIndent } from 'common-tags';
+
+const unindentedString = stripIndent`
+    This tag is indented really far,
+    but the unindentedString var won't be!
+`;
+```
+
+Consult the [common-tags documentation][common-tags] for the full list of
+available tags.
+
 ## Compatibility
 This addon is tested against the `release`, `beta`, and `canary` channels, as
 well as the latest LTS.
