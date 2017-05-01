@@ -1,17 +1,18 @@
 {
   "name": "ember-common-tags",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "An ember-cli wrapper for the common-tags package.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "common-tags"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Blake Gentry",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/bgentry/ember-common-tags",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
