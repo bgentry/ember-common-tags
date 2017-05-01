@@ -1,6 +1,6 @@
 {
   "name": "ember-common-tags",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An ember-cli wrapper for the common-tags package.",
   "keywords": [
     "ember-addon",
